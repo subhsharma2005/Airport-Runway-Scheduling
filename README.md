@@ -5,6 +5,11 @@ with interactive charts visualizing delays over time.
 
 ![image](https://github.com/user-attachments/assets/43e2d855-3d8a-4f36-b792-5f490f3a918b)
 
+![image](https://github.com/user-attachments/assets/b116d564-0633-47ee-81c1-c754e6565e7f)
+
+![image](https://github.com/user-attachments/assets/0cad58a7-0b68-4e1c-81be-69faef766810)
+
+
 
 
 
